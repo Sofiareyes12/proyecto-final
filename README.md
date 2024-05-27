@@ -56,4 +56,4 @@ Contact
 For any questions or further information, please contact:
 
 Name: Sofia Reyes
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: sofiareyes12
